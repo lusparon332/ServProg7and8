@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ServProgLab7and8.props" />
+</Project>

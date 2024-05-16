@@ -1,0 +1,6 @@
+@ServProgLab7and8_HostAddress = http://localhost:5232
+
+GET {{ServProgLab7and8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
